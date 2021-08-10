@@ -25,7 +25,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Airtune/pure-ojs-ipfs-unixfs/issues"
+    "url": "https://github.com/Airtune/pure-js-ipfs-unixfs/issues"
   },
   "engines": {
     "node": ">=14.0.0",
