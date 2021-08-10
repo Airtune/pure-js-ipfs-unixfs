@@ -36,20 +36,20 @@
     "Dan Ordille <dordille@gmail.com>",
     "Richard Schneider <makaretu@gmail.com>",
     "ᴠɪᴄᴛᴏʀ ʙᴊᴇʟᴋʜᴏʟᴍ <victorbjelkholm@gmail.com>",
+    "Airtune <84182637+Airtune@users.noreply.github.com>",
     "JGAntunes <j.goncalo.antunes@gmail.com>",
     "Marcin Rataj <lidel@lidel.org>",
     "Richard Littauer <richard.littauer@gmail.com>",
-    "Bernard Mordan <bernard@tableflip.io>",
+    "jbenet <juan@benet.ai>",
     "Vasco Santos <vasco.santos@moxy.studio>",
-    "Mithgol <getgit@mithgol.ru>",
     "Irakli Gozalishvili <contact@gozala.io>",
-    "Arpit Agarwal <atvanguard@users.noreply.github.com>",
     "Hector Sanjuan <code@hector.link>",
+    "Arpit Agarwal <atvanguard@users.noreply.github.com>",
     "Francisco Baio Dias <xicombd@gmail.com>",
     "Diogo Silva <fsdiogo@gmail.com>",
-    "jbenet <juan@benet.ai>",
+    "Bernard Mordan <bernard@tableflip.io>",
     "SahidMiller <SahidMiller@users.noreply.github.com>",
-    "Airtune <airtune@protonmail.com>"
+    "Mithgol <getgit@mithgol.ru>"
   ],
   "workspaces": [
     "packages/*"
