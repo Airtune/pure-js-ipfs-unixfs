@@ -35,7 +35,7 @@ interface InProgressImportResult extends ImportResult {
   single?: boolean
 }
 
-type ChunkerType = 'fixed' | 'rabin'
+type ChunkerType = 'fixed'
 interface ProgressHandler { (chunkSize: number, path?: string): void }
 interface HamtHashFn { (value: Uint8Array): Promise<Uint8Array> }
 interface Chunker { (source: AsyncIterable<Uint8Array>, options: ImporterOptions): AsyncIterable<Uint8Array> }

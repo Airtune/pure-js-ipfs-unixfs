@@ -1,7 +1,7 @@
 {
   "name": "ipfs-unixfs-importer",
   "version": "8.0.2",
-  "description": "JavaScript implementation of the UnixFs importer used by IPFS",
+  "description": "Pure JavaScript implementation of the UnixFs importer used by IPFS",
   "leadMaintainer": "Alex Potsides <alex.potsides@protocol.ai>",
   "main": "src/index.js",
   "browser": {
@@ -18,20 +18,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ipfs/js-ipfs-unixfs.git"
+    "url": "git+https://github.com/Airtune/pure-js-ipfs-unixfs.git"
   },
   "keywords": [
     "IPFS"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ipfs/js-ipfs-unixfs/issues"
+    "url": "https://github.com/Airtune/pure-ojs-ipfs-unixfs/issues"
   },
   "engines": {
     "node": ">=14.0.0",
     "npm": ">=7.0.0"
   },
-  "homepage": "https://github.com/ipfs/js-ipfs-unixfs#readme",
+  "homepage": "https://github.com/Airtune/pure-js-ipfs-unixfs#readme",
   "devDependencies": {
     "@types/mocha": "^8.2.1",
     "aegir": "^34.0.0",
@@ -59,7 +59,6 @@
     "merge-options": "^3.0.4",
     "multiformats": "^9.4.2",
     "murmurhash3js-revisited": "^3.0.0",
-    "rabin-wasm": "^0.1.4",
     "uint8arrays": "^2.1.7"
   },
   "types": "dist/src/index.d.ts",

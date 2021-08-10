@@ -1,7 +1,7 @@
 {
-  "name": "js-ipfs-unixfs",
+  "name": "pure-js-ipfs-unixfs",
   "version": "1.0.0",
-  "description": "JS implementation of the IPFS UnixFS",
+  "description": "Pure JS implementation of the IPFS UnixFS",
   "scripts": {
     "reset": "lerna run clean && rimraf packages/*/node_modules node_modules packages/*/package-lock.json package-lock.json",
     "test": "lerna run test",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ipfs/js-ipfs-unixfs.git"
+    "url": "git+https://github.com/Airtune/pure-js-ipfs-unixfs.git"
   },
   "private": true,
   "contributors": [
@@ -48,7 +48,8 @@
     "Francisco Baio Dias <xicombd@gmail.com>",
     "Diogo Silva <fsdiogo@gmail.com>",
     "jbenet <juan@benet.ai>",
-    "SahidMiller <SahidMiller@users.noreply.github.com>"
+    "SahidMiller <SahidMiller@users.noreply.github.com>",
+    "Airtune <airtune@protonmail.com>"
   ],
   "workspaces": [
     "packages/*"

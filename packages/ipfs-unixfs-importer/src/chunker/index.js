@@ -11,8 +11,7 @@ const errCode = require('err-code')
  * @type {{ [key: string]: Chunker }}
  */
 const chunkers = {
-  fixed: require('../chunker/fixed-size'),
-  rabin: require('../chunker/rabin')
+  fixed: require('../chunker/fixed-size')
 }
 
 /**

@@ -21,20 +21,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ipfs/js-ipfs-unixfs.git"
+    "url": "git+https://github.com/Airtune/pure-js-ipfs-unixfs.git"
   },
   "keywords": [
     "IPFS"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ipfs/js-ipfs-unixfs/issues"
+    "url": "https://github.com/Airtune/pure-js-ipfs-unixfs/issues"
   },
   "engines": {
     "node": ">=14.0.0",
     "npm": ">=7.0.0"
   },
-  "homepage": "https://github.com/ipfs/js-ipfs-unixfs#readme",
+  "homepage": "https://github.com/Airtune/pure-js-ipfs-unixfs#readme",
   "devDependencies": {
     "@types/mocha": "^8.2.1",
     "aegir": "^34.0.0",

@@ -76,8 +76,6 @@ async function * dagBuilder (source, blockstore, options) {
 
       if (typeof options.chunker === 'function') {
         chunker = options.chunker
-      } else if (options.chunker === 'rabin') {
-        chunker = require('../chunker/rabin')
       } else {
         chunker = require('../chunker/fixed-size')
       }
